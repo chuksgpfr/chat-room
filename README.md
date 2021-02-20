@@ -15,6 +15,11 @@
   </a>
 </p>
 
+## 🚀 Demo
+
+<img src="https://github.com/chuksgpfr/chat-room/blob/main/images/demo.gif" width="300" />
+
+
 ## 🚀 How to use
 
 - Install packages with `yarn` or `npm install`.
